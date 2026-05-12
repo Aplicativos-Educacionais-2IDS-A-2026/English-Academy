@@ -83,3 +83,89 @@ O nome **English Academy** foi escolhido por transmitir a ideia de uma plataform
 - Júlia Savella Rosa
 - Rubens Moscardini Neto
 
+# English Academy
+
+Educational application developed in Flutter focused on teaching the **Past Perfect** tense in English. The project aims to make learning more dynamic, interactive, and accessible for beginner students.
+
+---
+
+## 📚 About the Project
+
+The **English Academy** was created to help students who have difficulties learning the **Past Perfect**, one of the most important and challenging topics in English grammar.
+
+The application offers:
+- summarized content;
+- practical examples;
+- interactive quizzes;
+- immediate feedback;
+- simple and intuitive navigation.
+
+---
+
+## 🎯 Objective
+
+Develop an educational application using **Flutter** to assist students in learning the **Past Perfect** tense.
+
+### Specific Objectives
+- Present explanations about the Past Perfect;
+- Provide practical examples;
+- Allow users to take quizzes;
+- Automatically calculate scores;
+- Display performance feedback;
+- Create a simple and intuitive interface;
+- Encourage interactive English learning.
+
+---
+
+## 🧩 Features
+
+- Home page;
+- Navigation between screens;
+- Content page;
+- Content details page;
+- Quiz with questions and answers;
+- Automatic answer correction;
+- Score calculation;
+- Results page;
+- “About” page.
+
+---
+
+## 👥 Target Audience
+
+The application is mainly intended for:
+- high school students;
+- beginner English learners;
+- technical course students;
+- users who want to review verb tenses;
+- people interested in English grammar.
+
+**Estimated age range:** 14 to 25 years old.
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Google Fonts (Roboto)
+
+---
+
+## 🎨 Visual Identity
+
+### Name
+The name **English Academy** was chosen to convey the idea of a serious and organized platform for learning the English language.
+
+### Typography
+- Main font: **Roboto**
+
+---
+
+## 👨‍💻 Team Members
+
+- Vinícius Bruno de Lima
+- Livia Bussaglia Bispo
+- Júlia Savella Rosa
+- Rubens Moscardini Neto
+

@@ -1,5 +1,5 @@
 # English Academy
- <img width="1100" height="1100" alt="ChatGPT Image 12 de mai  de 2026, 15_18_34" src="https://github.com/user-attachments/assets/d4172a73-e5c5-425e-b9c1-f31377f0827b" />
+ <img width="600" height="600" alt="ChatGPT Image 12 de mai  de 2026, 15_18_34" src="https://github.com/user-attachments/assets/d4172a73-e5c5-425e-b9c1-f31377f0827b" />
 Aplicativo educacional desenvolvido em Flutter com foco no ensino do tempo verbal **Past Perfect** da língua inglesa. O projeto busca tornar o aprendizado mais dinâmico, interativo e acessível para estudantes iniciantes.
 
 
